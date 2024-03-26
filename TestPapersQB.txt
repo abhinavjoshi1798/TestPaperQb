@@ -1,0 +1,2 @@
+TableName:  UserInfo
+Admin Role : "Modertor"
