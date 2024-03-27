@@ -15,4 +15,3 @@ app.use("/api/admin", adminRouter);
 app.listen(process.env.port, async () => {
   console.log(`server is running at ${process.env.port}`);
 });
-//singham
